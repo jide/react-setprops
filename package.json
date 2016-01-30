@@ -1,0 +1,24 @@
+{
+  "name": "react-setprops",
+  "version": "0.0.2",
+  "description": "Set props on React components functionally.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "jide",
+  "license": "ISC",
+  "devDependencies": {
+    "react": "^0.14.0"
+  },
+  "peerDependencies": {
+    "react": "^0.14.0"
+  },
+  "bugs": {
+    "url": "https://github.com/jide/react-setprops/issues"
+  },
+  "homepage": "https://github.com/jide/react-setprops"
+}
